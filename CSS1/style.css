@@ -1,0 +1,16 @@
+p{
+	margin:5;
+	font-size: 14px;
+	color: blue;
+
+	border: 5px solid black;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 16px;
+	border-top-right-radius: 16px;
+	border-bottom-right-radius: 5px;
+
+	background-color: lightgray;
+	background-clip: content-box;
+	padding: 0px 0px 0px 0px;
+}
+
