@@ -1,0 +1,95 @@
+commit 2b72855d99914ca2e8e3c3c45506e8d9659684d7
+Author: Linnik Maciel <lms2@icomp.ufam.edu.br>
+Date:   Wed Apr 25 17:21:05 2018 -0400
+
+    QUESTAO 3 DA PROVA 1
+
+commit 7e0159c869461dbf92b42bcfb2f807cfbb1ca2a9
+Author: Linnik Maciel <lms2@icomp.ufam.edu.br>
+Date:   Wed Apr 25 17:03:37 2018 -0400
+
+    QUESTAO 4 DA PROVA 1
+
+commit 70a8ac63f69201e3326aeecaaef0dad8f6cfe422
+Author: Linnik Maciel <lms2@icomp.ufam.edu.br>
+Date:   Wed Apr 25 16:19:57 2018 -0400
+
+    QUESTAO 2 DA PROVA 1
+
+commit 9c93c995bfbccf8bd0171a1bc976a47f13a6a695
+Author: Linnik Maciel <lms2@icomp.ufam.edu.br>
+Date:   Wed Apr 25 16:14:43 2018 -0400
+
+    QUESTAO 1 DA PROVA 1
+:...skipping...
+commit 2b72855d99914ca2e8e3c3c45506e8d9659684d7
+Author: Linnik Maciel <lms2@icomp.ufam.edu.br>
+Date:   Wed Apr 25 17:21:05 2018 -0400
+
+    QUESTAO 3 DA PROVA 1
+
+commit 7e0159c869461dbf92b42bcfb2f807cfbb1ca2a9
+Author: Linnik Maciel <lms2@icomp.ufam.edu.br>
+Date:   Wed Apr 25 17:03:37 2018 -0400
+
+    QUESTAO 4 DA PROVA 1
+
+commit 70a8ac63f69201e3326aeecaaef0dad8f6cfe422
+Author: Linnik Maciel <lms2@icomp.ufam.edu.br>
+Date:   Wed Apr 25 16:19:57 2018 -0400
+
+    QUESTAO 2 DA PROVA 1
+
+commit 9c93c995bfbccf8bd0171a1bc976a47f13a6a695
+Author: Linnik Maciel <lms2@icomp.ufam.edu.br>
+Date:   Wed Apr 25 16:14:43 2018 -0400
+
+    QUESTAO 1 DA PROVA 1
+
+commit c27df816e6244278895a99d7d997e42c3f21c6c0
+Author:  <Linnik@DESKTOP-TE610ET.localdomain>
+Date:   Wed Apr 18 02:21:56 2018 -0400
+
+    EXERCICIO 4 DE JAVASCRIPT
+
+commit cbcfaf3b22b0bceb3b27eb7e800a33ee18ff2e3b
+Author: Linnik Maciel <lms2@icomp.ufam.edu.br>
+Date:   Sat Apr 7 16:49:22 2018 -0400
+
+    VERSAO FINAL DO EXERCICIO DE JAVASCRIPT
+
+commit 384f6dbda24c8adf5d735f54e70c4fac0e30a5af
+Author: Linnik Maciel <lms2@icomp.ufam.edu.br>
+Date:   Sat Apr 7 16:11:16 2018 -0400
+
+    EXERCICIO DE JAVASCRIPT , POR CONTA DE PROBLEMAS NAO CONHECIDOS , NAO CONSEGUI NO MODO EXTERNO SO NO EMBARCADO
+
+commit d477f25c16121aec12dc48cfe8659ba73d88533d
+Author: Linnik Maciel <lms2@icomp.ufam.edu.br>
+Date:   Wed Mar 28 17:34:16 2018 -0400
+
+    EXERCICIO 2 DE CSS
+
+commit 0fc2ce50e582e754fde1ecce74965420a8be1886
+Author: Linnik Maciel <lms2@icomp.ufam.edu.br>
+Date:   Fri Mar 23 23:16:51 2018 -0400
+
+    EXERCICIO DE CSS
+
+commit ac849a846e3f12c64dbadfe69b12aac99ea1e49d
+Author: Linnik Maciel <lms2@icomp.ufam.edu.br>
+Date:   Mon Mar 19 17:33:20 2018 -0400
+
+    PEQUENA ALTERAÇÃO NO CÓDIGO
+
+commit 981fc58a6a2fd3543252887f10c74bb68a0ccbc9
+Author: Linnik Maciel <lms2@icomp.ufam.edu.br>
+Date:   Mon Mar 19 17:09:03 2018 -0400
+
+    COMMIT INICIAL
+
+
+
+a) Diretório de trabalho é o diretório no qual estão todos os arquivos que estão sendo manipulados no momento do desenvolvimento de suas versões de código, onde este receberá os commits do repositório GIT.
+
+b) Repositório local é o repositório de arquivos que está apenas na máquina de uma pessoa, já o repositório remoto é um repositório contido em um servidor fora da máquina do usuário, na qual o desenvolvedor tem acesso aos diretórios contidos no repositório.
